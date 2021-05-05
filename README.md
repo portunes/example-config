@@ -1,2 +1,3 @@
 # example-config
-Example config to read using Portunes
+
+This is an example repo containing configuration readable by portunes using the Github Adapter
